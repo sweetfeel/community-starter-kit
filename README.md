@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+123
 
 ## What it does
 
-FEATURES PLACEHOLDER
+456
 
 ## Getting started
 
